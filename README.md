@@ -1,6 +1,6 @@
 # sneha-s_portfolio
 
-# [Project 1 - social buzz virtual internship project with accenture] (https://github.com/sneharautela/socialbuzz)
+# [Project 1 - virtual internship project with accenture] (https://github.com/sneharautela/socialbuzz)
 
 This is a project i did for a virtual internship with Accenture 
 
