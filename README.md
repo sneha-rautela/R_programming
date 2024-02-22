@@ -9,3 +9,7 @@ This is a project i did for a virtual internship with Accenture
   aggregate popularity. 
 * process : Data Cleaning and modellling , Visualization ,insights were uncovered, presentation.
 
+
+## Visualization of the data
+![](images/Screenshot(20).png)
+
