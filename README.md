@@ -33,3 +33,15 @@ This is a visualization project i did for a virtual internship with Tata.
 
 ## Certificate of the project
 ![](Picture(28).png)
+
+
+
+# Power bi project (data visualization)
+
+Date visualization project that i did myself on power bi
+
+* Data was taken form kaggle (world happiness dataset)
+
+## here's the dashboard
+
+
