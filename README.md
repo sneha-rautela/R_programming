@@ -29,4 +29,7 @@ This is a visualization project i did for a virtual internship with Tata.
 
 
 ## Final visualization dashborard (tableau)
-![](
+![](Picture(27).png)
+
+## Certificate of the project
+![](Picture(28).png)
