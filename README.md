@@ -13,3 +13,6 @@ This is a project i did for a virtual internship with Accenture
 ## Visualization of the data
 ![](picture(26).png)
 
+## Certificate of the project
+![](picture(25).png)
+
