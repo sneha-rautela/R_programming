@@ -11,5 +11,5 @@ This is a project i did for a virtual internship with Accenture
 
 
 ## Visualization of the data
-![](images/picture(26).png)
+![](picture(26).png)
 
