@@ -7,7 +7,7 @@ This is a project i did for a virtual internship with Accenture
 * Data was provided by the project .
 * In this project , we were give a question about, 'Social Buzz' a social media & content creation company . And we had to analyze of their content categories that highlights the top 5 categories with the largest 
   aggregate popularity. 
-* process : Data Cleaning and modellling , Visualization ,insights were uncovered, presentation.
+* process : Data Cleaning and modelling , Visualization and insights were uncovered.
 
 
 ## Visualization of the data (Tableau)
@@ -45,4 +45,15 @@ Date visualization project that i did myself on power bi
 
 ## here's the dashboard
 ![](picture(30).png)
+
+
+
+# [project 4 - Data Visualization with R (programming language)] 
+
+Data visualization of iris dataset
+
+* Data was already available in R studio
+* In this project the relationship between three species of flowers , their sepal length/width and petal length/width is shown.
+
+## visualization (R)
 
