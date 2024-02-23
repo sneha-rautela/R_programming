@@ -1,6 +1,6 @@
 # sneha-s_portfolio
 
-# [Project 1 - virtual internship project with accenture] (https://sneha-rautela.github.io/sneha-s_portfolio/accenture)
+# [Project 1 - virtual internship project with accenture] 
 
 This is a project i did for a virtual internship with Accenture 
 
@@ -18,7 +18,7 @@ This is a project i did for a virtual internship with Accenture
 
 
 
-# [Project 2 - Data Visualization virtual internship project with Tata] (https://sneha-rautela.github.io/sneha-s_portfolio/tata)
+# [Project 2 - Data Visualization virtual internship project with Tata] 
 
 This is a visualization project i did for a virtual internship with Tata.
 
@@ -36,7 +36,7 @@ This is a visualization project i did for a virtual internship with Tata.
 
 
 
-# [Project 3 - Power bi project (data visualization)] (https://sneha-rautela.github.io/sneha-s_portfolio/powerbi)
+# [Project 3 - Power bi project (data visualization)] 
 
 Date visualization project that i did myself on power bi
 
@@ -48,7 +48,7 @@ Date visualization project that i did myself on power bi
 
 
 
-# [project 4 - Data Visualization with R (programming language)] (https://sneha-rautela.github.io/sneha-s_portfolio/R)
+# [project 4 - Data Visualization with R (programming language)] 
 
 Data visualization of iris dataset
 
