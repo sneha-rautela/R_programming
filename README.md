@@ -1,6 +1,6 @@
 # sneha-s_portfolio
 
-# [Project 1 - virtual internship project with accenture] (https://github.com/sneharautela/socialbuzz)
+# [Project 1 - virtual internship project with accenture] (https://sneha-rautela.github.io/sneha-s_portfolio/accenture)
 
 This is a project i did for a virtual internship with Accenture 
 
@@ -18,7 +18,7 @@ This is a project i did for a virtual internship with Accenture
 
 
 
-# [Project 2 - Data Visualization virtual internship project with Tata] (https://github.com/sneharautela/tata)
+# [Project 2 - Data Visualization virtual internship project with Tata] (https://sneha-rautela.github.io/sneha-s_portfolio/tata)
 
 This is a visualization project i did for a virtual internship with Tata.
 
@@ -36,7 +36,7 @@ This is a visualization project i did for a virtual internship with Tata.
 
 
 
-# [Project 3 - Power bi project (data visualization)] (https://github.com/sneharautela/powerbi)
+# [Project 3 - Power bi project (data visualization)] (https://sneha-rautela.github.io/sneha-s_portfolio/powerbi)
 
 Date visualization project that i did myself on power bi
 
@@ -48,7 +48,7 @@ Date visualization project that i did myself on power bi
 
 
 
-# [project 4 - Data Visualization with R (programming language)] 
+# [project 4 - Data Visualization with R (programming language)] (https://sneha-rautela.github.io/sneha-s_portfolio/R)
 
 Data visualization of iris dataset
 
@@ -56,4 +56,4 @@ Data visualization of iris dataset
 * In this project the relationship between three species of flowers , their sepal length/width and petal length/width is shown.
 
 ## visualization (R)
-<object data="iris_flower_R.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="iris_flower_R.pdf" width="1000" height="1000" type='application/pdf'></object>
