@@ -56,5 +56,4 @@ Data visualization of iris dataset
 * In this project the relationship between three species of flowers , their sepal length/width and petal length/width is shown.
 
 ## visualization (R)
-![](picture(31).png)
-![](picture(32).png)
+<object data="iris_flower_R.pdf" width="1000" height="1000" type='application/pdf'></object>
