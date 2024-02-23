@@ -53,6 +53,7 @@ Date visualization project that i did myself on power bi
 Data visualization of iris dataset
 
 * Data was already available in R studio
+* libraries used : ggplot2, iris, tidyverse.
 * In this project the relationship between three species of flowers , their sepal length/width and petal length/width is shown.
 
 ## visualization (R)
