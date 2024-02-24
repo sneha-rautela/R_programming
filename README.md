@@ -1,5 +1,8 @@
 # sneha-s_portfolio
 
+## Certificaitons of Data analytics course provided by Google.
+
+
 # [Project 1 - virtual internship project with accenture] 
 
 This is a project i did for a virtual internship with Accenture 
