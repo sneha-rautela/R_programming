@@ -1,7 +1,7 @@
 # sneha-s_portfolio
 
 ## Certificaitons of Data analytics course provided by Google.
-<object data="google_data_analytics_certificates" width="1000" height="1000" type='application/pdf'></object>
+<object data="google_data_analytics" width="1000" height="1000" type='application/pdf'></object>
 
 # [Project 1 - virtual internship project with accenture] 
 
