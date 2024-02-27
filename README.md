@@ -9,6 +9,8 @@ dataset : iris
 R studio
 
 ## project walk - through
+![](rstudio.png)
+
 
 
 ## final visualization
