@@ -2,8 +2,8 @@
 
 ## Description
 This project is visualization project made using R studio, the data was already available in R studio. This project is going to walk you through the species of the iris flower and the relationship between the sepal length, width and petal length, width . 
-libraries used : ggplot, tidyverse
-dataset : iris
+libraries used : ggplot, tidyverse and
+dataset used : iris
 
 ## Environments used
 R studio
